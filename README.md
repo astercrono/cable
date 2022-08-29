@@ -1,6 +1,6 @@
 # Cable
 
-A simple, stateless, Web Socket relay server. Clients subscribe and receive messages issues to the server via a RESTful JSON PUT message.
+A simple, stateless, Web Socket relay server. Clients subscribe and receive messages issued to the server via a RESTful JSON PUT message.
 
 ## Usage
 
